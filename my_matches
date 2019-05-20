@@ -1,0 +1,11 @@
+{
+  "name" : "Julia",
+  "birthdate" : "10/04/1996",
+  "sex" : "F",
+  "id_user" : 2,
+  "last_access" : "19/05/2019 19:00",
+  "images":[ "https://todaatual.com/wp-content/uploads/11176499_105036516494855_1152795218_n.jpg",
+              "https://todaatual.com/wp-content/uploads/11249421_805295426253972_809713455_n.jpg",
+              "https://todaatual.com/wp-content/uploads/13649264_1112097725549942_614992476_n-420x420.jpg"
+           ]
+}
