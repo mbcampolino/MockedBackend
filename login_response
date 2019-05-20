@@ -3,8 +3,8 @@
   "birthdate" : "19/08/1992",
   "sex" : "M",
   "preference_sex" : "F",
-  "id_user" : "1",
+  "id_user" : 1,
   "date_created" : "19/05/2019 20:00",
   "last_access" : "19/05/2019 21:13",
-  "points_available" : "5"
+  "points_available" : 5
 }
